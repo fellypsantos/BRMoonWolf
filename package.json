@@ -1,0 +1,16 @@
+{
+  "name": "BRMoonWolf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": "https://github.com/fellypsantos/BRMoonWolf",
+  "author": "<fellypsantos2011@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
